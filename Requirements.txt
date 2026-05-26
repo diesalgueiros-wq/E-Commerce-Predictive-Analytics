@@ -1,0 +1,26 @@
+﻿# pandas es una biblioteca para el manejo y análisis de datos estructurados
+pandas==1.4.2
+
+
+# scikit-learn proporciona herramientas de aprendizaje automático y modelado estadístico
+scikit-learn==1.1.2
+
+
+# imbalanced-learn maneja datasets desbalanceados mediante técnicas de muestreo y balanceo
+imbalanced-learn==0.9.1
+
+
+# hyperopt facilita la optimización de hiperparámetros para mejorar el rendimiento del modelo
+hyperopt==0.2.7
+
+
+# mlflow permite rastrear experimentos y gestionar el ciclo de vida de los modelos de machine learning
+mlflow==1.27.0
+
+
+# SQLAlchemy se usa para manejar conexiones con bases de datos en MLflow
+SQLAlchemy==1.4.46
+
+
+# setuptools es una herramienta para la instalación y distribución de paquetes Python
+setuptools==57.4.0
